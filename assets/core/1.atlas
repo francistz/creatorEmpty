@@ -1,0 +1,153 @@
+
+1.png
+size: 1084,620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: true
+  xy: 972, 173
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 838, 155
+  size: 132, 120
+  orig: 132, 120
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 798, 5
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 698, 97
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 578, 390
+  size: 228, 262
+  orig: 228, 262
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 251, 3
+  size: 186, 248
+  orig: 186, 248
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 842, 450
+  size: 168, 240
+  orig: 168, 240
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 842, 277
+  size: 171, 240
+  orig: 171, 240
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 838, 97
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+21
+  rotate: true
+  xy: 888, 34
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 578, 192
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 578, 237
+  size: 147, 151
+  orig: 147, 155
+  offset: 0, 4
+  index: -1
+24
+  rotate: false
+  xy: 501, 2
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 698, 29
+  size: 98, 66
+  orig: 98, 66
+  offset: 0, 0
+  index: -1
+26
+  rotate: true
+  xy: 946, 37
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+27
+  rotate: true
+  xy: 918, 120
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+28
+  rotate: true
+  xy: 727, 240
+  size: 148, 86
+  orig: 148, 86
+  offset: 0, 0
+  index: -1
+29
+  rotate: false
+  xy: 251, 191
+  size: 325, 427
+  orig: 325, 427
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 972, 98
+  size: 103, 73
+  orig: 106, 78
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 501, 33
+  size: 195, 156
+  orig: 195, 156
+  offset: 0, 0
+  index: -1
+tx_clnnloding_1
+  rotate: true
+  xy: 2, 15
+  size: 603, 247
+  orig: 603, 247
+  offset: 0, 0
+  index: -1
